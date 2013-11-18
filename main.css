@@ -7,3 +7,4 @@ background-image: -webkit-linear-gradient(top, #B5FFF5 0%, #388277 100%);
 background-image: linear-gradient(to bottom, #B5FFF5 0%, #388277 100%);
 }
 html{ background: #388277;}
+#navLeft ul li a {font-size:12pt;}
