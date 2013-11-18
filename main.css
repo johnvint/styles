@@ -1,4 +1,9 @@
-#navLeft ul li a {
-    font-size: 32px;
-    text-decoration: none;
+body{
+background-image: -ms-linear-gradient(top, #B5FFF5 0%, #388277 100%);
+background-image: -moz-linear-gradient(top, #B5FFF5 0%, #388277 100%);
+background-image: -o-linear-gradient(top, #B5FFF5 0%, #388277 100%);
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #B5FFF5), color-stop(1, #388277));
+background-image: -webkit-linear-gradient(top, #B5FFF5 0%, #388277 100%);
+background-image: linear-gradient(to bottom, #B5FFF5 0%, #388277 100%);
 }
+html{ background: #388277;}
